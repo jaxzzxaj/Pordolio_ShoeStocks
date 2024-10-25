@@ -13,5 +13,5 @@ public class shoesEntity {
 	public void setBrandId(int brandId) {this.brandId = brandId;}
 	
 	public String getName() {return name;}
-	public void setName(int name) {this.name = name;}
+	public void setName(String name) {this.name = name;}
 }

@@ -1,1 +1,0 @@
-# Pordolio_ShoeStocks

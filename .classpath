@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="entity/|dao/" kind="src" path="Portfolio_ShoeStocks/src/main"/>
+	<classpathentry kind="src" path="Portfolio_ShoeStocks/src/main/dao"/>
+	<classpathentry kind="src" path="Portfolio_ShoeStocks/src/main/entity"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
